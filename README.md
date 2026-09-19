@@ -80,8 +80,7 @@ Choose a model (1-1): 1
 
 Using model: llama3.2:3b
 You: how are you?
-Bot:
-I'm just a computer program, so I don't have feelings or emotions
+Bot:I'm just a computer program, so I don't have feelings or emotions
 like humans. I'm always "on" and ready to help, 24/7!
 I don't have good or bad days, but I'm always here to assist
 and chat with users like you, Esraa.
