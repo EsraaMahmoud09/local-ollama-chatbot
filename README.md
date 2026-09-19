@@ -24,7 +24,7 @@ The chatbot communicates with a locally running Ollama instance through the offi
 ## Requirements
 
 * [Ollama](https://ollama.com) installed
-* Python 3.10+
+* Python 3.10.9
 * At least one model pulled locally:
 
 bash
@@ -53,7 +53,6 @@ bash
 ```bash
    python -m venv .venv
    .venv\Scripts\activate      # Windows
-   source .venv/bin/activate   # macOS/Linux
 ```
 
 3. Install dependencies:
