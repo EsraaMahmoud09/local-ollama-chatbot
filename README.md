@@ -79,9 +79,8 @@ Available models:
 Choose a model (1-1): 1
 
 Using model: llama3.2:3b
-You: What is Python?
-Bot: Python is a high-level programming language widely used for
-web development, data analysis, automation, and AI.
+You: how are you?
+Bot: I'm just a computer program, so I don't have feelings or emotions like humans d always "on" and ready to help, 24/7! I don't have good or bad days, but I'm always to assist and chat with users like you, Esraa. How about you? How's your day going?
 ```
 
 The model selector supports multiple installed models, but this project was built and tested with a single model, `llama3.2:3b`.
