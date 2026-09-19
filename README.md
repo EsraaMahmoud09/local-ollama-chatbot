@@ -37,16 +37,7 @@ bash
 
 ## Setup
 
-1. Clone this repository:
-
-bash
-
-```bash
-   git clone <your-repo-url>
-   cd chatbot_project
-```
-
-2. Create and activate a virtual environment:
+1. Create and activate a virtual environment (inside the project folder):
 
 bash
 
@@ -55,13 +46,16 @@ bash
    .venv\Scripts\activate      # Windows
 ```
 
-3. Install dependencies:
+2. Install the required package:
 
 bash
 
 ```bash
-   pip install -r requirements.txt
+   pip install ollama
 ```
+
+> If you're getting this project from GitHub instead of building it locally, clone it first with `git clone <repo-url>`, then follow the steps above.
+
 
 ---
 
